@@ -1,4 +1,4 @@
-# Thili.ai
+# Thili Dot AI Private Limited
 
 We build AI harnesses for developers and product teams — the orchestration around the model that turns raw capability into real work. Some ship as products; others we open source, because learning should be hands-on.
 
