@@ -1,40 +1,44 @@
 # Thili.ai
 
-We build AI tools for developers and product teams. Two kinds: the ones that ship as products, and the ones we open source because they should exist.
+We build AI harnesses for developers and product teams — the orchestration around the model that turns raw capability into real work. Some ship as products; others we open source, because learning should be hands-on.
 
 ---
 
-## What we build
+## Our harnesses
 
-**[CeremonyAI](https://ceremonyai.ai)** — AI-powered product planning platform. You bring an idea. CeremonyAI runs a team of specialized agents — system architects, reliability engineers, LLM specialists — to produce a complete developer handoff: architecture decisions, sprint plans, cost estimates, and code-ready specs. Built for teams that are tired of the gap between what product envisioned and what engineering shipped.
+**[CeremonyAI](https://ceremonyai.io)** — A product-planning harness. You bring an idea; CeremonyAI orchestrates a team of specialized agents — system architects, reliability engineers, LLM specialists — into a complete developer handoff: architecture decisions, sprint plans, cost estimates, and code-ready specs. Built for teams that are tired of the gap between what product envisioned and what engineering shipped.
 
-**[mone](https://github.com/thili-ai/mone)** — Open source personal AI assistant for the terminal. Captures tasks in natural language, breaks them down intelligently, fetches and summarizes external content (web, GitHub, arXiv, Confluence), records meetings, and tells you what to work on next. Say *"eda mone, what should I do now?"* and it reasons over your list and answers. MIT licensed.
+**[Learn Fast](https://learnfast.thili.ai)** — A learning harness. You don't watch — you build, section by section, until every course ends with a working AI application you wrote yourself. The open-source repos below are the finished reference harnesses for these courses.
 
 ---
 
 ## Open source
 
-We believe certain tools should be free and in the hands of developers. `mone` is the first. More coming.
+We open-source the harnesses we build in our **[Learn Fast](https://learnfast.thili.ai)** courses. You build each one yourself, lesson by lesson — these repos are here so you can check your work, unblock yourself, or just read clean, small code that shows how a harness fits together.
 
-| Repo | What it is | Status |
-|---|---|---|
-| [mone](https://github.com/thili-ai/mone) | Personal AI task assistant CLI | Active |
+| Repo | What it is | Course | Status |
+|---|---|---|---|
+| [thilimem](https://github.com/thili-ai/thilimem) | The **memory layer of an agent harness** — extract, resolve, store, retrieve, and consolidate long-term memories in a few hundred readable lines. | *Build an Agent Memory Engine* | Active |
+| [learnify](https://github.com/thili-ai/learnify) | A **document-understanding harness** — turn PDF pages into summaries, auto-graded quizzes, and analytical questions. Streamlit + PyMuPDF + LangChain. | *Learning Assistant* | Active |
+
+Both are MIT licensed.
 
 ---
 
 ## Who we are
 
-**Gopi Subramanian** — Founder & CEO. 25+ years in AI/ML. Two O'Reilly books. 25+ patents. Built and shipped AI products at scale before it was called AI.
+**Gopi Subramanian** — Founder & CEO. 25+ years in AI/ML. Two Published books. 25+ patents. Built and shipped AI products at scale before it was called AI.
 
 **Kishor Subbaraman** — Co-Founder, Product & Services. 22+ years leading enterprise IT transformations for Tier-1 banks. $100M+ in outsourcing wins, $10M in direct cost savings. Brings the product discipline to keep AI work grounded.
 
-We started Thili.ai because AI coding tools made developers 10x faster at building the wrong thing. The gap isn't in the code — it's in everything that happens before it.
+We started Thili.ai because AI coding tools made developers 10x faster at building the wrong thing. The gap isn't in the model — it's in the harness around it: the context, orchestration, and judgment that turn raw capability into the right thing built well.
 
 ---
 
 ## Reach us
 
-- **Product**: [ceremonyai.ai](https://ceremonyai.ai)
-- **Company**: [thili.ai](https://thili.ai)
+- **Company**: [thili.ai](https://www.thili.ai)
+- **CeremonyAI**: [ceremonyai.io](https://ceremonyai.io)
+- **Learn Fast**: [learnfast.thili.ai](https://learnfast.thili.ai)
 - **LinkedIn**: [Gopi](https://www.linkedin.com/in/subramgo) · [Kishor](https://www.linkedin.com/in/kishor-subbaraman/)
 - **Email**: hello@thili.ai
