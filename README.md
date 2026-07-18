@@ -20,8 +20,10 @@ We open-source the harnesses we build in our **[Learn Fast](https://learnfast.th
 |---|---|---|---|
 | [thilimem](https://github.com/thili-ai/thilimem) | The **memory layer of an agent harness** — extract, resolve, store, retrieve, and consolidate long-term memories in a few hundred readable lines. | *Build an Agent Memory Engine* | Active |
 | [learnify](https://github.com/thili-ai/learnify) | A **document-understanding harness** — turn PDF pages into summaries, auto-graded quizzes, and analytical questions. Streamlit + PyMuPDF + LangChain. | *Learning Assistant* | Active |
+| [thilimail](https://github.com/thili-ai/thilimail) | An **email-campaign agent harness** — decide who to email, write it, time it, send it, read the results, and A/B test the next one. Google ADK + Gemini, on a deterministic email simulator (no keys to learn). | *Building an AI Email Campaign Management Agent* | Active |
+| [thilicodex](https://github.com/thili-ai/thilicodex) | A **coding-agent harness** — an LLM in a tool-use loop that reads, edits, and runs code inside a sandbox (the engine behind Claude Code / Cursor / Aider). Runs locally on Ollama, pure-stdlib. | *Building a Coding Agent* | Active |
 
-Both are MIT licensed.
+All are MIT licensed.
 
 ---
 
