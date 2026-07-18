@@ -41,4 +41,4 @@ We started Thili.ai because AI coding tools made developers 10x faster at buildi
 - **CeremonyAI**: [ceremonyai.io](https://ceremonyai.io)
 - **Learn Fast**: [learnfast.thili.ai](https://learnfast.thili.ai)
 - **LinkedIn**: [Gopi](https://www.linkedin.com/in/subramgo) · [Kishor](https://www.linkedin.com/in/kishor-subbaraman/)
-- **Email**: hello@thili.ai
+- **Email**: support@thili.ai
