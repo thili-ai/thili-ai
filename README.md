@@ -22,6 +22,7 @@ We open-source the harnesses we build in our **[Learn Fast](https://learnfast.th
 | [learnify](https://github.com/thili-ai/learnify) | A **document-understanding harness** — turn PDF pages into summaries, auto-graded quizzes, and analytical questions. Streamlit + PyMuPDF + LangChain. | *Learning Assistant* | Active |
 | [thilimail](https://github.com/thili-ai/thilimail) | An **email-campaign agent harness** — decide who to email, write it, time it, send it, read the results, and A/B test the next one. Google ADK + Gemini, on a deterministic email simulator (no keys to learn). | *Building an AI Email Campaign Management Agent* | Active |
 | [thilicodex](https://github.com/thili-ai/thilicodex) | A **coding-agent harness** — an LLM in a tool-use loop that reads, edits, and runs code inside a sandbox (the engine behind Claude Code / Cursor / Aider). Runs locally on Ollama, pure-stdlib. | *Building a Coding Agent* | Active |
+| [thilishipagent](https://github.com/thili-ai/thilishipagent) | A **monetization harness for AI tools** — package any agent to PyPI, gate a free vs Pro tier, mint and revoke license keys on payment, and ship the storefront as one Google Cloud Run service. Stdlib core; FastAPI + Stripe + Firestore behind extras. | *Ship and Monetize an AI Agent* | Active |
 
 All are MIT licensed.
 
