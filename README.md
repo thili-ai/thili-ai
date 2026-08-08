@@ -26,6 +26,8 @@ We open-source the harnesses we build in our **[Learn Fast](https://learnfast.th
 | [thilirec](https://github.com/thili-ai/thilirec) | A **recommender harness** — similarity, user- and item-based collaborative filtering, Funk matrix factorization by SGD, and neural CF (GMF/MLP/NeuMF) trained on sampled negatives, wrapped in one evaluation harness (Recall@K, NDCG, MAP, coverage) that won't let you fool yourself. NumPy + pandas; PyTorch only for the neural models. | *Build a Recommender from Scratch*, *Neural Collaborative Filtering* | Active |
 | [thilitower](https://github.com/thili-ai/thilitower) | A **two-tower retrieval engine** — the candidate-generation layer under every large recommender. Two encoders trained with in-batch negatives and the logQ popularity correction, item vectors indexed with IVF/HNSW, cold items retrieved from content features. PyTorch + FAISS. | *Build a Two-Tower Retrieval Engine* | Active |
 
+| [thilipipe](https://github.com/thili-ai/thilipipe) | The **system around a recommendation model** — four services, an orchestrator with a latency budget and a failure policy, a batch job, and switches that inject the failures every deployed recommender has: a stale index, drifted feature ids, timeouts. Measures what each one costs in recall. FastAPI + PyTorch. | *Ship a Production Retrieval System* | Active |
+
 All are MIT licensed.
 
 ---
